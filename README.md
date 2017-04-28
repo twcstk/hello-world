@@ -1,5 +1,4 @@
 # hello-world
-My First experiment with GITHub
 
 Hi Humans,
 
